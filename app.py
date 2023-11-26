@@ -248,7 +248,7 @@ if choose == "Competitor Analysis":
         with st.chat_message("assistant"):
                 st.markdown(assistant_response)
         
-
+st.write("Made by Saurabh & Satwik @ TASC") 
 #MainMenu {visibility: hidden;}
 st.markdown("""
     <style>
